@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: This is a test page! Hello
-image: /img/home-jumbotron.jpg
+image: /img/2018-08-25_16-29-24_644.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
